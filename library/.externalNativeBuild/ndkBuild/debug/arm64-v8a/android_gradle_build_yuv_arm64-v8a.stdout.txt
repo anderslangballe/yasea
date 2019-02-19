@@ -1,0 +1,27 @@
+[arm64-v8a] Compile++      : yuv <= compare.cc
+[arm64-v8a] Compile++      : yuv <= compare_common.cc
+[arm64-v8a] Compile++      : yuv <= convert.cc
+[arm64-v8a] Compile++      : yuv <= convert_argb.cc
+[arm64-v8a] Compile++      : yuv <= convert_from.cc
+[arm64-v8a] Compile++      : yuv <= convert_from_argb.cc
+[arm64-v8a] Compile++      : yuv <= convert_to_argb.cc
+[arm64-v8a] Compile++      : yuv <= convert_to_i420.cc
+[arm64-v8a] Compile++      : yuv <= cpu_id.cc
+[arm64-v8a] Compile++      : yuv <= planar_functions.cc
+[arm64-v8a] Compile++      : yuv <= rotate.cc
+[arm64-v8a] Compile++      : yuv <= rotate_any.cc
+[arm64-v8a] Compile++      : yuv <= rotate_argb.cc
+[arm64-v8a] Compile++      : yuv <= rotate_common.cc
+[arm64-v8a] Compile++      : yuv <= row_any.cc
+[arm64-v8a] Compile++      : yuv <= row_common.cc
+[arm64-v8a] Compile++      : yuv <= scale.cc
+[arm64-v8a] Compile++      : yuv <= scale_any.cc
+[arm64-v8a] Compile++      : yuv <= scale_argb.cc
+[arm64-v8a] Compile++      : yuv <= scale_common.cc
+[arm64-v8a] Compile++      : yuv <= video_common.cc
+[arm64-v8a] Compile++      : yuv <= compare_neon64.cc
+[arm64-v8a] Compile++      : yuv <= rotate_neon64.cc
+[arm64-v8a] Compile++      : yuv <= row_neon64.cc
+[arm64-v8a] Compile++      : yuv <= scale_neon64.cc
+[arm64-v8a] StaticLibrary  : libstdc++.a
+[arm64-v8a] SharedLibrary  : libyuv.so
